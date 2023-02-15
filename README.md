@@ -1,6 +1,5 @@
-💻Co-Founder of Treetra.
 
-💻Frontend Developer on Cartei.
+💻C.E.O of Cartei.
 
 👨🏻‍💻Hi, I am Akin Artun Yuceege from Turkey. I am 16 years old. I am a frontend developer and co-founder of Treetra.
 <br>
