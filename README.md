@@ -4,7 +4,6 @@
 👨🏻‍💻Hi, I am Akin Artun Yuceege from Turkey. I am 16 years old. I am a fullstack developer and game developer.
 <br>
 <br>
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50px" height="50px">
@@ -12,4 +11,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="50px" height="50px">
 <img src="https://yt3.googleusercontent.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj" height="50px"> 
 <img src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" height="50px" margin-left="-10px"> 
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50px" height="50px">
 
