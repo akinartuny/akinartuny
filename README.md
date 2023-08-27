@@ -1,5 +1,5 @@
 
-💻C.T.O of Cartei.
+💻Co-Founder of Trevicto
 
 👨🏻‍💻Hi, I am Akin Artun Yuceege from Turkey. I am 16 years old. I am a fullstack developer and game developer.
 <br>
