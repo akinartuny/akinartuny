@@ -1,5 +1,5 @@
 
-💻Trevicto & Extremis AI
+💻Co-Founder of Trevicto Games
 
 👨🏻‍💻Hi, I am Akin Artun Yuceege from Turkey.
 <br>
